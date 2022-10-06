@@ -1,7 +1,10 @@
 package fundamentos;
 
-public class PrimeiroPrograma {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+public class PrimeiroPrograma
+{
+    // tudo começa a partir da main
+    public static void main(String[] args)
+    {
+        System.out.println("Oiee!!");
     }
 }
